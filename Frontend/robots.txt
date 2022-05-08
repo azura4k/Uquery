@@ -1,0 +1,9 @@
+User-agent: Googlebot
+Disallow: /results
+Disallow: /viewuser
+
+
+User-agent: *
+Allow: /
+
+Sitemap: http://uquery.azura4k.com/sitemap.xml

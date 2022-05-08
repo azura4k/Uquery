@@ -1,0 +1,29 @@
+EC500: Authentication Errors
+    EC501: Username Not Found
+    EC502: Incorrect Password
+    EC503: Session Management Error
+    EC504: User Already Logged In
+    EC505: User is not Logged In
+    EC506: Internal Error
+    EC507: User is Already Registered
+    EC508: Email not Found
+    EC509: Passwords do not match
+
+C500: Authentication Success
+    C502: Successfully Logged Out
+    C503: Successfully Removed Session
+    C504: User Successfully Deleted
+    C505: User Successfully Registered
+    C506: Information Updated
+    C507: Temp Password Sent
+    C508: New Password is Set
+
+EC600:
+    EC601: Alias is Already Registered
+    EC602: PlatformID is invalid
+    EC603: Internal Error
+    EC604: Alias is not registered
+C600 Alias Success:
+    C601: Alias Successfully Registered
+    C602: Alias Successfully Deleted
+    C603: All Aliases Related To User Have Been Deleted
